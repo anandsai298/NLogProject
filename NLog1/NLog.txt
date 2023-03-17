@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <targets async="true">
+    <target type="File" name="file" fileName="C:\Users\saman\.nuget\packages\nlog.config\4.7.15\contentFiles\any\any\NLog.config" keepFileOpen="true" />
+  </targets>
+
+  <rules>
+    <logger name="*" minlevel="Debug" writeTo="file"/>
+  </rules>
+</nlog>

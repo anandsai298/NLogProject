@@ -1,0 +1,10 @@
+﻿2023-03-15 20:20:21.1355|INFO|NLogProject.Nlog|Info:sum()
+2023-03-15 20:20:21.1653|WARN|NLogProject.Nlog|Warn:a or b is 0
+2023-03-15 20:20:21.1653|ERROR|NLogProject.Nlog|Error:either a or b is 0
+2023-03-15 20:20:21.1653|INFO|NLogProject.Nlog|Info:sum()
+2023-03-15 20:20:21.1653|DEBUG|NLogProject.Nlog|Debug:sum()1
+2023-03-15 20:21:31.7121|INFO|NLogProject.Nlog|Info:sum()
+2023-03-15 20:21:31.7289|WARN|NLogProject.Nlog|Warn:a or b is 0
+2023-03-15 20:21:31.7289|ERROR|NLogProject.Nlog|Error:either a or b is 0
+2023-03-15 20:21:31.7289|INFO|NLogProject.Nlog|Info:sum()
+2023-03-15 20:21:31.7289|DEBUG|NLogProject.Nlog|Debug:sum()10
